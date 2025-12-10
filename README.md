@@ -1,2 +1,5 @@
 # scripty-scripts
-⚡🎀 scripty-scripts: automation for ppl with taste
+
+|NAME|TIER|VIBE|
+|:-|:-:|:-:|
+|⚡🎀 scripty-scripts: automation for ppl with taste|🦝 RACOON-TIER|🧑‍🎄REDCAP-mode|
